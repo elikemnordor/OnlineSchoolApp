@@ -1,2 +1,0 @@
-# OnlineSchoolApp
-Flutter , Rive
